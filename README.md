@@ -1,2 +1,3 @@
-# Anexsuss Affiliate Blog
-Modern ve SEO uyumlu bir blog sistemi.
+# Anexsuss Modern Blog
+
+Modern ve SEO uyumlu affiliate blog sistemi.
