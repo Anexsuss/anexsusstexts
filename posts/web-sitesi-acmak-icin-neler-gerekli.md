@@ -5,11 +5,11 @@ date: "2025-05-18"
 
 Bir web sitesi açmak için ihtiyacın olan temel şeyler:
 
-1. ✅ **Domain (alan adı)** → `seninsiten.com`  
-   👉 [En ucuz domainleri gör](https://www.namecheap.com/?aff=SENIN-NAMECHEAP-ID)
+1. ✅ **Domain (alan adı)**  
+   👉 [Domain almak için Namecheap kullan](https://www.namecheap.com/?aff=7075337)
 
 2. ✅ **Hosting (sunucu alanı)**  
-   👉 [Başlangıç için en iyisi Hostinger](https://www.hostg.xyz/SENIN-HOSTINGER-ID)
+   👉 [Hosting hizmetine göz at](https://www.namecheap.com/?aff=7075337)
 
 3. ✅ **İçerik (blog, ürün, vs.)**
 
@@ -17,4 +17,4 @@ Bir web sitesi açmak için ihtiyacın olan temel şeyler:
 
 5. ✅ **Ziyaretçi çekme (SEO, sosyal medya)**
 
-> Affiliate sistemini sitene entegre edersen tıklayanlar sayesinde para kazanırsın!
+> Bu yazıdaki bazı bağlantılar affiliate linktir. Satın alırsan ben de kazanırım. Teşekkür ederim 🙏
