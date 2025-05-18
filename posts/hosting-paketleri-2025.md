@@ -7,14 +7,14 @@ Eğer yeni bir site kurmak istiyorsan ve hangi hosting'i alacağını bilmiyorsa
 
 ### 🥇 Hostinger - Başlangıç Paketi
 ✅ Hızlı, kolay panel, ücretsiz domain  
-👉 [Başla →](https://www.hostg.xyz/SH12345)
+👉 [Başla →](https://www.hostg.xyz/SENIN-HOSTINGER-ID)
 
 ### 🥈 Namecheap - Stellar Plan
 ✅ Ekonomik, güvenilir  
-👉 [İncele](https://www.namecheap.com/?aff=123456)
+👉 [İncele](https://www.namecheap.com/?aff=SENIN-NAMECHEAP-ID)
 
 ### 🥉 Cloudways - WordPress için Pro Seçenek
 ✅ Performans odaklı, SSD destekli  
-👉 [Detaylı Bilgi](https://partner.cloudways.com/affiliate-link)
+👉 [Detaylı Bilgi](https://partner.cloudways.com/SENIN-CLOUDWAYS-ID)
 
 *Yukarıdaki bağlantılar affiliate link içerir. Satın alım yaparsan ben de kazanırım. Teşekkürler 🙏*

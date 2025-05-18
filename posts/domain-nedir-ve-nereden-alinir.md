@@ -8,7 +8,7 @@ Domain, bir web sitesinin internetteki adıdır (örnek: `anexsuss.com`).
 ### 🧩 En Uygun Domain Firmaları
 
 - **Namecheap**  
-  👉 [Domain sorgula](https://www.namecheap.com/?aff=123456)
+  👉 [Domain sorgula](https://www.namecheap.com/?aff=SENIN-NAMECHEAP-ID)
 
 - **GoDaddy**  
   👉 [Uygun .com domainleri keşfet](https://tr.godaddy.com/)
@@ -17,4 +17,3 @@ Domain, bir web sitesinin internetteki adıdır (örnek: `anexsuss.com`).
   Basit panel, güvenilir altyapı
 
 *Affiliate link içerir. Kayıt olduğunda ben de kazanırım.*
-
