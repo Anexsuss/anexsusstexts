@@ -4,32 +4,26 @@ import { getSortedPostsData } from '../lib/posts'
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData()
-  return {
-    props: {
-      allPostsData
-    }
-  }
+  return { props: { allPostsData } }
 }
 
 export default function Home({ allPostsData }) {
   return (
     <>
       <Head>
-        <title>Anexsuss Blog</title>
-        <meta name="description" content="Domain, hosting ve affiliate marketing üzerine bilgiler." />
+        <title>Anexsuss Affiliate Blog</title>
+        <meta name="description" content="Domain, hosting ve affiliate rehberleri" />
       </Head>
-      <main className="max-w-4xl mx-auto p-6">
-        <h1 className="text-4xl font-bold mb-4">Anexsuss Blog</h1>
-        <p className="mb-6 text-gray-600">Domain, hosting ve affiliate dünyasında kazandıran içerikler.</p>
-        <div className="grid gap-6">
+      <main className="max-w-3xl mx-auto px-4 py-10">
+        <h1 className="text-4xl font-bold mb-6">Anexsuss Affiliate Blog</h1>
+        <div className="space-y-6">
           {allPostsData.map(({ slug, title, description, date }) => (
-            <div key={slug} className="p-4 border rounded hover:shadow">
-              <Link href={`/posts/${slug}`}>
-                <h2 className="text-xl font-semibold text-blue-600">{title}</h2>
+            <div key={slug} className="border p-4 rounded hover:shadow transition">
+              <Link href={`/posts/${slug}`} className="text-xl font-semibold text-blue-600 hover:underline">
+                {title}
               </Link>
               <p className="text-sm text-gray-500">{date}</p>
-              <p className="mt-2 text-gray-700">{description}</p>
-              <Link href={`/posts/${slug}`} className="text-sm text-blue-500 mt-2 block">Devamını oku →</Link>
+              <p className="text-gray-700 mt-2">{description}</p>
             </div>
           ))}
         </div>
